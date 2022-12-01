@@ -1,4 +1,4 @@
-"predicting_stocks-with-graphics" 
+"Predicting_stocks-with-graphics" 
 With this project, we are designing an ML algorithm to predict stock market prices and crashes by only relying on past and present information. 
 We collected data from YFINANCE. 
 We will predict whether the market will crash within the timeframe selected by the user (up to six months of timeframe) from now using these data at any point in time. We trained and tested linear regression models, logistic regression models, Support Vector Machines(SVM), decision trees, and Recurrent Neural Network-Long Short Term Memory(RNN-LSTM).
